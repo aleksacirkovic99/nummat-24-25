@@ -31,7 +31,6 @@ V Julia REPL-ju v korenu projekta:
 ] activate .
 include("demo.jl")   # pokliče demo_main() in izpiše primere
 
-
 # Test
 ] activate .
 ] test
