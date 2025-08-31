@@ -25,12 +25,12 @@ NummatDn03/
  ─ runtests.jl # enotski testi
 
 
-
 # Hiter zagon (demo)
 V Julia REPL-ju v korenu projekta:
 ```julia
 ] activate .
 include("demo.jl")   # pokliče demo_main() in izpiše primere
+
 
 # Test
 ] activate .
