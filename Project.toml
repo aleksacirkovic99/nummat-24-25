@@ -1,0 +1,12 @@
+name = "NummatDn03"
+uuid = "e91fca97-eb2b-402c-8680-0b87a3f5635c"
+authors = ["aleksacirkovic "]
+version = "0.1.0"
+
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Printf = "1.11.0"
+Test = "1.11.0"
